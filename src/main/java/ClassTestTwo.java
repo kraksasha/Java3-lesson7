@@ -33,4 +33,5 @@ public class ClassTestTwo {
     public void methodAfter(){
         System.out.println("Тест класса ClassTestTwo c анотацией @AfterSuite выполнен");
     }
+
 }

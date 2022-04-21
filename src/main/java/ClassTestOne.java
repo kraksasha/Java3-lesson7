@@ -24,4 +24,5 @@ public class ClassTestOne {
     public void methodAfter(){
         System.out.println("Тест класса ClassTestOne c анотацией @AfterSuite выполнен");
     }
+
 }
