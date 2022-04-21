@@ -54,6 +54,5 @@ public class ClassTestRun {
         } catch (InvocationTargetException e) {
             e.printStackTrace();
         }
-
     }
 }
